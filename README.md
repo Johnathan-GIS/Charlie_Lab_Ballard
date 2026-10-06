@@ -5,7 +5,7 @@ i want a game
 so that i haz funz
 narrative
 You'll create a
-
+# Wire frame and game ideas
 ✨NEW REPO (let dev alfa & bravo rest for a bit),
 use some new libraries/frameworks (jQ, jQUI, BS5 icons),
 spend a lil' time planning (wiki/wireframe, issues/screenshots 🥷🏼),
